@@ -1,1 +1,1 @@
-docker-compose -p avorion -f docker-compose.yml -d
+docker-compose up -d
